@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T08:22:37.126Z" agent="5.0 (Windows)" etag="xYJ672QURo6_avjG5UTI" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T09:15:22.971Z" agent="5.0 (Windows)" etag="ujF1YucROI5iCjw5r3JV" version="20.2.7" type="github">
   <diagram id="lJzqKo0tMmMthapr_AUm" name="Halaman-1">
-    <mxGraphModel dx="781" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,22 +56,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KfWaGZeMBS_jtLyXlY-o-22" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="430" width="50" height="90" as="geometry" />
+          <mxGeometry x="-160" y="560" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KfWaGZeMBS_jtLyXlY-o-25" value="Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="69" y="518" width="60" height="30" as="geometry" />
+          <mxGeometry x="-165" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KfWaGZeMBS_jtLyXlY-o-26" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="401" width="135" height="49" as="geometry" />
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-31" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="150" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="KfWaGZeMBS_jtLyXlY-o-27" value="Dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="470" width="135" height="54" as="geometry" />
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-32" value="Dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="440" width="150" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="KfWaGZeMBS_jtLyXlY-o-29" value="Manajemen Landing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="550" width="143" height="52" as="geometry" />
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-33" value="Manajemen Landing Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="150" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="KfWaGZeMBS_jtLyXlY-o-30" value="Manajemen Landing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="650" width="110" height="40" as="geometry" />
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-34" value="Manajemen jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-35" value="Manajemen Pengurus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-36" value="Manajemen Pelayan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="840" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-42" value="Tambah data jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="665" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="200" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-89" y="610" as="sourcePoint" />
+            <mxPoint x="211" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KfWaGZeMBS_jtLyXlY-o-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-50" value="Edit data jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="666" width="107" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-51" value="Hapus data jemaat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="662" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-52" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KfWaGZeMBS_jtLyXlY-o-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-53" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KfWaGZeMBS_jtLyXlY-o-34" target="KfWaGZeMBS_jtLyXlY-o-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="650" as="sourcePoint" />
+            <mxPoint x="210" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.567;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.192;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KfWaGZeMBS_jtLyXlY-o-34" target="KfWaGZeMBS_jtLyXlY-o-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="580" as="sourcePoint" />
+            <mxPoint x="390" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfWaGZeMBS_jtLyXlY-o-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

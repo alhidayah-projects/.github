@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T11:19:29.917Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="yMjOZhjGF3Yk8TRjMnqX" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T11:20:37.910Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="91Nn_3w6cgzVvHbzFfDU" version="21.3.7" type="github">
   <diagram id="lJzqKo0tMmMthapr_AUm" name="Halaman-1">
     <mxGraphModel dx="3663" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1791,7 +1791,7 @@
             <mxPoint x="660" y="3604" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-X_BO066lZwIgVOc59dN-43" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="-X_BO066lZwIgVOc59dN-43" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="655.5" y="3658.5" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-X_BO066lZwIgVOc59dN-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-X_BO066lZwIgVOc59dN-11">

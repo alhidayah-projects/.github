@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T07:06:20.299Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="3RlXYdAo-eXVf-3cD8FL" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T09:11:52.910Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="u4WEbyhS6cXj3X5SGRzM" version="21.3.7" type="github">
   <diagram id="lJzqKo0tMmMthapr_AUm" name="Halaman-1">
     <mxGraphModel dx="3983" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1034,7 +1034,7 @@
             <mxPoint x="-758.9200000000001" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUNuxTDZp69mPQiMY_n4-188" value="" style="endArrow=none;html=1;rounded=0;entryX=0.878;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="BUNuxTDZp69mPQiMY_n4-166">
+        <mxCell id="BUNuxTDZp69mPQiMY_n4-188" value="" style="endArrow=none;html=1;rounded=0;entryX=0.878;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BUNuxTDZp69mPQiMY_n4-166" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-329" y="640" as="sourcePoint" />
             <mxPoint x="-329" y="450" as="targetPoint" />
@@ -1122,10 +1122,10 @@
         <mxCell id="OukhBpJfgOGvh8yyEFY1-11" value="Simpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1569" y="2262" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OukhBpJfgOGvh8yyEFY1-12" value="Menampilkan Status data Jemaat Tersimoan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OukhBpJfgOGvh8yyEFY1-12" value="Menampilkan Status data Pelayan Tersimoan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1239" y="2260" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OukhBpJfgOGvh8yyEFY1-13" value="Melihatt data Pengurus yang tersimpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OukhBpJfgOGvh8yyEFY1-13" value="Melihatt data Pelayan yang tersimpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1569" y="2506" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OukhBpJfgOGvh8yyEFY1-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -1620,46 +1620,46 @@
             <mxPoint x="-724.973" y="3677.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-1" value="Klik Tombol Approve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-1" value="Klik Tombol Approve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-853" y="3486" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-2" value="APPROVE PERSEMBAHAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-2" value="APPROVE PERSEMBAHAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-960" y="2840" width="179" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-3" value="Detail Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-3" value="Detail Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1630" y="2858" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SU7-cfRb5xp0qzncijoS-3" target="SU7-cfRb5xp0qzncijoS-14">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SU7-cfRb5xp0qzncijoS-3" target="SU7-cfRb5xp0qzncijoS-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1220" y="1040" as="sourcePoint" />
             <mxPoint x="-1170" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SU7-cfRb5xp0qzncijoS-3" target="SU7-cfRb5xp0qzncijoS-15">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SU7-cfRb5xp0qzncijoS-3" target="SU7-cfRb5xp0qzncijoS-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1260" y="1200" as="sourcePoint" />
             <mxPoint x="-1210" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-429" y="1195" as="sourcePoint" />
             <mxPoint x="-429" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-8" value="Pengurus menambahkan data untuk jemaat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-8" value="Pengurus menambahkan data untuk jemaat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-990" y="237" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1160" y="2540" as="sourcePoint" />
             <mxPoint x="-1160" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-10" value="Pengurus menambahkan data untuk Pelayan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-10" value="Pengurus menambahkan data untuk Pelayan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1700" y="1587" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKJdgePiHy-o5X-3Xe9S-11" value="Memberikan Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PKJdgePiHy-o5X-3Xe9S-11" value="Memberikan Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-990" y="1622" width="350" height="30" as="geometry" />
         </mxCell>
       </root>

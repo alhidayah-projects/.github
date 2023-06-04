@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T09:11:52.910Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="u4WEbyhS6cXj3X5SGRzM" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T09:45:22.000Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="Tl3JF5CTTWfDrVbDb7cj" version="21.3.7" type="github">
   <diagram id="lJzqKo0tMmMthapr_AUm" name="Halaman-1">
-    <mxGraphModel dx="3983" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4622" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1122,7 +1122,7 @@
         <mxCell id="OukhBpJfgOGvh8yyEFY1-11" value="Simpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1569" y="2262" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OukhBpJfgOGvh8yyEFY1-12" value="Menampilkan Status data Pelayan Tersimoan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OukhBpJfgOGvh8yyEFY1-12" value="Menampilkan Status data Pelayan Tersimpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1239" y="2260" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OukhBpJfgOGvh8yyEFY1-13" value="Melihatt data Pelayan yang tersimpan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1627,7 +1627,7 @@
           <mxGeometry x="-960" y="2840" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKJdgePiHy-o5X-3Xe9S-3" value="Detail Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1630" y="2858" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1630" y="2828" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKJdgePiHy-o5X-3Xe9S-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SU7-cfRb5xp0qzncijoS-3" target="SU7-cfRb5xp0qzncijoS-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1660,7 +1660,7 @@
           <mxGeometry x="-1700" y="1587" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKJdgePiHy-o5X-3Xe9S-11" value="Memberikan Persembahan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-990" y="1622" width="350" height="30" as="geometry" />
+          <mxGeometry x="-990" y="1592" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

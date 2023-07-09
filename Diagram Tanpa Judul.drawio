@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T05:50:33.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GVPWyjvOsE9mQgzAkrBo" version="21.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-09T07:24:54.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OB_YqXj6loYvgYaAdF61" version="21.6.1" type="github" pages="7">
   <diagram id="qXAm-WrhnGSw4mxI4rmk" name="Page-2">
     <mxGraphModel dx="1103" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8239,16 +8239,128 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eFGTxx92w03k9sdXt2g0-193" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Lihat Data Profil Gereja&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="3886" width="150" height="54" as="geometry" />
+          <mxGeometry x="3128" y="3610" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="eFGTxx92w03k9sdXt2g0-194" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Tambah (create) Data&amp;nbsp; Profil Gereja&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="3843" width="150" height="54" as="geometry" />
+          <mxGeometry x="3270" y="3483" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="eFGTxx92w03k9sdXt2g0-195" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Edit &amp;amp; update Data Profil Gereja&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="3930" width="150" height="54" as="geometry" />
+          <mxGeometry x="3451" y="3518" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="eFGTxx92w03k9sdXt2g0-196" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hapus Data Profil Gereja&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3078" y="4004" width="150" height="54" as="geometry" />
+          <mxGeometry x="3362" y="3606" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.437;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.973;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-193" target="eFGTxx92w03k9sdXt2g0-194">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3280" y="3630" as="sourcePoint" />
+            <mxPoint x="3350" y="3580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-199" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3200" y="3790" as="sourcePoint" />
+            <mxPoint x="3450" y="3550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-200" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-193" target="eFGTxx92w03k9sdXt2g0-196">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3280" y="3800" as="sourcePoint" />
+            <mxPoint x="3330" y="3750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-201" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eFGTxx92w03k9sdXt2g0-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2690" y="3300" as="sourcePoint" />
+            <mxPoint x="2860" y="3700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2850" y="3610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-202" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Lihat Data Rekening&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="3728" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-203" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Tambah (create) Data&amp;nbsp; Profil Gereja&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="3642" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-204" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Edit &amp;amp; update Data Rekening&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="3664" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-205" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hapus Data Rekening&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3093" y="3728" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-206" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.077;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-202" target="eFGTxx92w03k9sdXt2g0-204">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3040" y="3790" as="sourcePoint" />
+            <mxPoint x="3090" y="3740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-207" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-202" target="eFGTxx92w03k9sdXt2g0-205">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2940" y="3850" as="sourcePoint" />
+            <mxPoint x="2990" y="3800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-209" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.306;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eFGTxx92w03k9sdXt2g0-202">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2690" y="3300" as="sourcePoint" />
+            <mxPoint x="2850" y="3670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2750" y="3540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-211" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.403;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-202" target="eFGTxx92w03k9sdXt2g0-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3020" y="3740" as="sourcePoint" />
+            <mxPoint x="3070" y="3690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hubungi Kami&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3303" y="3783" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-213" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Terima Pesan&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="3692.94" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-215" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hapus Pesan&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="3790" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-216" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eFGTxx92w03k9sdXt2g0-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3450" y="3810" as="sourcePoint" />
+            <mxPoint x="3500" y="3760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-217" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFGTxx92w03k9sdXt2g0-212" target="eFGTxx92w03k9sdXt2g0-215">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3510" y="3960" as="sourcePoint" />
+            <mxPoint x="3560" y="3910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-218" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2690" y="3300" as="sourcePoint" />
+            <mxPoint x="3300" y="3810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2810" y="3780" />
+              <mxPoint x="3060" y="3810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-219" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Persembahan&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="3859.5" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-220" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Approve&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="3816" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-221" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Reject&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="3860" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-222" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Lihat Persembahan&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="3940" width="150" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eFGTxx92w03k9sdXt2g0-223" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hapus Persembahan&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="3950" width="150" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
